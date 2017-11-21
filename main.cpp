@@ -2,7 +2,6 @@
 Riccardo Fossati 5AIA 21/11/2017
 COmpito TPSIT
 Modifica 1 FIX_BUG
-Modifica 2 FIX_BUG
 */
 
 #include<iostream>
